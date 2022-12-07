@@ -6,3 +6,5 @@ test('renders learn react link', () => {
   const linkElement = screen.getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
 });
+
+// Path: Team-6/client/src/index.js

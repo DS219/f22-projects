@@ -20,5 +20,6 @@ function App() {
     </div>
   );
 }
+// added some comments
 
 export default App;
